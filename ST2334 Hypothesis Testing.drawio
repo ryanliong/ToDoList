@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T10:29:06.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="yFCB6pMwSJy3jsJQB0JX" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T10:31:46.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="ox3YWsEYMQYzBVYd4Pji" version="14.6.3" type="github">
   <diagram id="bijvSrm205fAUz9UxAb5" name="Page-1">
-    <mxGraphModel dx="2926" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,14 @@
         <mxCell id="arde2VquEfpHJ7wwkiql-3" value="What is your h1?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="170" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="arde2VquEfpHJ7wwkiql-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arde2VquEfpHJ7wwkiql-5" target="arde2VquEfpHJ7wwkiql-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-5" value="Conduct 2 tail test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-60" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arde2VquEfpHJ7wwkiql-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arde2VquEfpHJ7wwkiql-6" target="arde2VquEfpHJ7wwkiql-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-6" value="Conduct 1 tail test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="260" width="120" height="60" as="geometry" />
@@ -39,6 +45,12 @@
         </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-39" value="What distribution are you using?&lt;br&gt;Refer to C.I Decision Tree" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-122.50000000000003" y="360" width="245" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="arde2VquEfpHJ7wwkiql-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arde2VquEfpHJ7wwkiql-40" target="arde2VquEfpHJ7wwkiql-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arde2VquEfpHJ7wwkiql-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="arde2VquEfpHJ7wwkiql-40" target="arde2VquEfpHJ7wwkiql-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-40" value="What distribution are you using?&lt;br&gt;Refer to C.I Decision Tree" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="245" height="90" as="geometry" />
@@ -141,6 +153,18 @@
         </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-94" value="If observed value falls within critical region REJECT h0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="arde2VquEfpHJ7wwkiql-101" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="780.17" as="sourcePoint" />
+            <mxPoint x="540" y="780.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arde2VquEfpHJ7wwkiql-102" value="" style="shape=flexArrow;endArrow=classic;html=1;" edge="1" parent="1" target="arde2VquEfpHJ7wwkiql-86">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="780" as="sourcePoint" />
+            <mxPoint x="200" y="710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
