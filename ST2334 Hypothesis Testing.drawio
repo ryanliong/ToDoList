@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T10:28:18.627Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="NquoerS8SpJmkZJcB3oe" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T10:29:06.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="yFCB6pMwSJy3jsJQB0JX" version="14.6.3" type="github">
   <diagram id="bijvSrm205fAUz9UxAb5" name="Page-1">
-    <mxGraphModel dx="2580" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2926" dy="2268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
         <mxCell id="arde2VquEfpHJ7wwkiql-65" value="F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1071.14" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arde2VquEfpHJ7wwkiql-67" value="Construct critical region &amp;gt;&amp;nbsp; t&lt;sub&gt;n-1; alpha/2&lt;/sub&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arde2VquEfpHJ7wwkiql-67" value="Construct critical region &amp;gt;&amp;nbsp; t&lt;sub&gt;n-1; alpha&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1068.8700000000001" y="831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-73" value="Z" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
         <mxCell id="arde2VquEfpHJ7wwkiql-78" value="F" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arde2VquEfpHJ7wwkiql-80" value="Construct critical region &amp;lt; -t&lt;sub&gt;n-1;&lt;/sub&gt;&amp;nbsp;&lt;sub&gt;alpha/2&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="arde2VquEfpHJ7wwkiql-80" value="Construct critical region &amp;lt; -t&lt;sub&gt;n-1;&lt;/sub&gt;&amp;nbsp;&lt;sub&gt;alpha&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="687.73" y="831" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arde2VquEfpHJ7wwkiql-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="arde2VquEfpHJ7wwkiql-86" target="arde2VquEfpHJ7wwkiql-94">
