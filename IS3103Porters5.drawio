@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T04:32:19.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="Ci1vu0RhPP6egnWMpqDL" version="17.1.2" type="github"><diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">7Ztdd6I6FIZ/jZftIgnycamIna5px1nVmblOIWJWA3Ehrfb8+pNoVDBY6TkqdLQ3JTshgf3shLwbbCEvXtyleDp55CFhLWiEixbqtSAEpuGIf9LyvrLYpjJEKQ1Vo61hSP8hymgo6ysNyazQMOOcZXRaNAY8SUiQFWw4Tfm82GzMWXHUKY6IZhgGmK2tt+2t/Q8Ns4myA8vdVnwjNJqowR1orSqecfASpfw1USMmPCGrmhivu1F3OZvgkM9zJuS3kJdynq2O4oVHmHTs2mer8/p7aje3kpIkq3KCZYTYeXbHJrRMM0T4Bq56eMPsVTlCXWj2vvbMfEIzMpziQJbngn4LdSdZzEQJiMPljZNQlTY3aMhClvKXjTMdYRnzJFPsoWyBGY0SUQjE9ZNUNqCMeZzxdDk26vs9COxNV/ma5Z+o0V2gvPJG0owsciblkjvCY5Kl76KJqkVAkVSxaxoqFubbOICOQjjJhYCJlBGr6Is2fW8hiAPFoSITpDHpjEZPHW+koRH3lxVpFP20jMSiU5VJc7z0FhXToaMqYhqGcphuGf4tc2OXeZ6wrcpl2Jbt1J2UhPH/ZwgrMrROgdDUEHYZj1rQYpJXSN/EYSQPv5P3OU/D2bpKjJSrLTlhyAOK5diPJKR432lfKk6A+UGcnCA07Kqh4Z4iNKzDKy6jS98Xl0+4b9k9OAU/XGQV59Our2hnbjolAMwSAOAUAOwrALvsAXc2AI4GYCgebz/u/KehRkJ0JXaA+9aXajiKGK2SxefQNqTb75od90NKJ1y/YNst0GubOj0A2iX01saj4nMPz5/8gyZPIsSzyYZR9UeL6GMqe44XkRQft6v9PryVI9IZCTuyLLuXDjJuJeGlMDHlMAnPAukk4QtBiYgduRxMNDP1qCkECiiZyQcfmwL9eDyGQXAc9KZRnLhtG+nojXPtakCFpbNWtdD3DEPf3Rx5OrbdRqkFoC+n3uDHb//pKhc+A7FWuQD0NbXP03hWsv/3MGOzm4zfdIKM8qSybnjASUgTIUGMnzgie/XGl4qYUwuH3SCpVzisc0iXtHG1dlV9rcphc/0XTKBe6bB2eI7A7/vh/WjQWOmAXLvX6dQlHdqoUdIB6qlNDdtVOxxJO1hOk7QD1FOiGvp6tUP3DNrBsRulHdb7mbx2eBgM/S+2DzyrctAQ1qocoJ5O9mNMWdmbA+FvzKq/afjD05cxky9Wr1rh82FRs1a4wCS3syvp69UKelrm4gjUrBX0pMqD3+k1VSj4fRe1UV1CwQGNEgqoQq7jKhSOJBRcq0lCAVVIstT7SZLrGsaH8/QITMS0apRSQHripec/3N99u75l+BTFWsUC0tMv/pu4u7L3DJvvjO6TZ76o/nlSjNNMnOUJT0q/XaXDf4iSerUDqpCp+dt2rgDsqvpaxQPS8zKXh6Be9YD0xIr3azgaPDb3KyXL6Tptry4FAQy3WRKiQgrkKiGOJCEANBulIfTky8+nweNg1NzJ2+1byK3tPSFA9hknryhuf/KyrMv9qAj5/wI=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-19T04:49:34.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="0PxdSnhbS6Er93Xe3XOZ" version="17.1.2" type="github">
+  <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
+    <mxGraphModel dx="1345" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;strokeColor=#FFFFFF;fillColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="626.11" y="176.56" width="480" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-4" value="Blog&lt;div&gt;Keywords&lt;/div&gt;&lt;div&gt;Social Media&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="316" y="725" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-28" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="896" y="705" width="240" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-22" value="&lt;h3&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;strokeWidth=6;fontSize=14;align=center;fillColor=#397DAA;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="784.8209523809525" y="337.5" width="162.58809523809524" height="158.12500000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="60da8b9f42644d3a-30" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=0;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#000099;" parent="1" vertex="1">
+          <mxGeometry x="643.44" y="375.3125" width="141.38095238095238" height="82.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-1" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=0;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#000099;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="947.4090476190477" y="375.3125" width="141.38095238095238" height="82.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-2" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=0;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#000099;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="795.4245238095239" y="530" width="141.38095238095238" height="82.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stylisedArrow;dy=0.6;dx=40;notch=0;feather=0.4;rounded=0;strokeWidth=1;fontSize=27;strokeColor=none;fillColor=#000099;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="795.4345238095239" y="223.75" width="141.38095238095238" height="82.50000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-5" value="&lt;font color=&quot;#ffffff&quot;&gt;Power of Buyer&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="401.56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-6" value="&lt;font color=&quot;#ffffff&quot;&gt;Power of Supplier&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="401.56" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-7" value="&lt;font color=&quot;#ffffff&quot;&gt;Threat of Substitutes&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="821.12" y="556.25" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-8" value="&lt;font color=&quot;#ffffff&quot;&gt;Threat of New Entrants&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="821.11" y="240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-12" value="&lt;h3&gt;Power of Supplier&lt;/h3&gt;&lt;p&gt;&lt;span&gt;- Low&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Suppliers span across multiple industries&lt;/p&gt;&lt;p&gt;- Many alternatives&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="644.5600000000001" y="510" width="156.56" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-13" value="&lt;h3&gt;Threat of Substitutes&lt;/h3&gt;&lt;p&gt;&lt;span&gt;- Moderate&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Hotels are commonly built around amenities&lt;/p&gt;&lt;p&gt;- Many within the vicinity&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="937.72" y="506.25" width="156.56" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-14" value="&lt;h3&gt;Power of Buyer&lt;/h3&gt;&lt;p&gt;&lt;span&gt;- High&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- Extremely tach-savvy consumers&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- More educated consumers&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;- Information and reviews are easily accessible&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="931.12" y="200" width="163.28" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-15" value="&lt;h3&gt;Threat of New Entrants&lt;/h3&gt;&lt;p&gt;&lt;span&gt;- Low&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- High initial investment required&lt;/p&gt;&lt;p&gt;- Lack of manpower&lt;/p&gt;&lt;p&gt;- Higher training cost&amp;nbsp; due to Covid-19&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="636.15" y="200" width="171.14" height="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pBV1b_riwakL3RBZ4tGA-16" value="&lt;h3&gt;Industry Competitors&lt;/h3&gt;&lt;div&gt;- Many competitors&lt;/div&gt;&lt;div&gt;- 410 as of the year 2018 (stb,2019)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="801.12" y="356.56" width="130" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
