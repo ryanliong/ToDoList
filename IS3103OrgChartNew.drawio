@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T04:14:25.719Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="GY0HLqEKtQalAh_QsrEs" version="17.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T08:24:06.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="rOwXSef4CXI7gISP8Z20" version="17.2.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2450" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,11 +22,8 @@
         <mxCell id="JqPvwRSfFl-CjzuHMjjg-7" value="Accounting" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JqPvwRSfFl-CjzuHMjjg-8" value="Room Division" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JqPvwRSfFl-CjzuHMjjg-8" value="Room Operations" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JqPvwRSfFl-CjzuHMjjg-9" value="Food &amp;amp; Beverage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-130" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JqPvwRSfFl-CjzuHMjjg-10" value="Marketing &amp;amp; Sales" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="190" width="120" height="60" as="geometry" />
@@ -73,15 +70,6 @@
             <mxPoint x="150" y="110" as="targetPoint" />
             <Array as="points">
               <mxPoint x="90" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JqPvwRSfFl-CjzuHMjjg-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="JqPvwRSfFl-CjzuHMjjg-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="90" y="170" as="sourcePoint" />
-            <mxPoint x="460" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-70" y="170" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -140,86 +128,8 @@
             <mxPoint x="280" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JqPvwRSfFl-CjzuHMjjg-8" target="JqPvwRSfFl-CjzuHMjjg-9" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="430" as="sourcePoint" />
-            <mxPoint x="20" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="i1Yryo5pNc8ydbOWbHFT-18" value="Transformative Alliance" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="400" width="1050" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-19" value="Project Manager 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="930" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-26" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="630" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-27" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="470" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-28" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-29" value="Room Operation Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-30" value="Food &amp;amp; Beverage Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-31" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="770" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-33" value="Taskforce 1" style="swimlane;horizontal=0;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="-40" y="50" width="1090" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-34" value="Project Manager 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="930" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-35" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="630" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-36" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-37" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-38" value="Room Operation Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-39" value="Food &amp;amp; Beverage Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-40" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="770" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-41" value="Taskcore 2" style="swimlane;horizontal=0;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="-40" y="160" width="1090" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-46" value="Project Manager 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="930" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-47" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="630" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-48" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="470" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-49" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="310" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-50" value="Room Operation Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="160" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-51" value="Food &amp;amp; Beverage Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-52" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="770" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="i1Yryo5pNc8ydbOWbHFT-53" value="Taskforce 3" style="swimlane;horizontal=0;" parent="i1Yryo5pNc8ydbOWbHFT-18" vertex="1">
-          <mxGeometry x="-40" y="275" width="1090" height="100" as="geometry" />
+          <mxGeometry x="-120" y="400" width="900" height="390" as="geometry" />
         </mxCell>
         <mxCell id="i1Yryo5pNc8ydbOWbHFT-54" value="Transformative Council" style="swimlane;" parent="1" vertex="1">
           <mxGeometry x="790" y="40" width="420" height="220" as="geometry" />
@@ -283,7 +193,7 @@
             <mxPoint x="360" y="370" as="sourcePoint" />
             <mxPoint x="770" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="255" y="290" />
+              <mxPoint x="330" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -308,282 +218,68 @@
             <mxPoint x="545" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-1" value="Chief Executive Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-33" value="Taskforce 1" style="swimlane;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="450" width="940" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-2" value="Chief Financial Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-41" value="Taskcore 2" style="swimlane;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="560" width="940" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-3" value="Chief Marketing Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-53" value="Taskforce 3" style="swimlane;horizontal=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="675" width="940" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-4" value="Chief Of Operations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-29" value="Room Operation Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-5" value="Chief Procurement Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="130" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-38" value="Room Operation Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-6" value="Accounting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1710" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-50" value="Room Operation Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-110" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-7" value="Operations" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-37" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-9" value="Marketing &amp;amp; Sales" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-28" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-10" value="Purchasing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2030" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-27" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-1" target="dr5dTloGBWN9ja8-UyAy-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1940" y="250" as="sourcePoint" />
-            <mxPoint x="1990" y="200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-26" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dr5dTloGBWN9ja8-UyAy-2">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="110" as="sourcePoint" />
-            <mxPoint x="1790" y="70" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1770" y="110" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-31" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dr5dTloGBWN9ja8-UyAy-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="110" as="sourcePoint" />
-            <mxPoint x="1990" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2090" y="110" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-19" value="Project Manager 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dr5dTloGBWN9ja8-UyAy-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1770" y="110" as="sourcePoint" />
-            <mxPoint x="1670" y="110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1620" y="110" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-34" value="Project Manager 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-4" target="dr5dTloGBWN9ja8-UyAy-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1630" y="190" as="sourcePoint" />
-            <mxPoint x="1680" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1620" y="210" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-40" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-2" target="dr5dTloGBWN9ja8-UyAy-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1940" y="250" as="sourcePoint" />
-            <mxPoint x="1990" y="200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-35" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-3" target="dr5dTloGBWN9ja8-UyAy-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1900" y="260" as="sourcePoint" />
-            <mxPoint x="1950" y="210" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-36" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-5" target="dr5dTloGBWN9ja8-UyAy-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1940" y="250" as="sourcePoint" />
-            <mxPoint x="1990" y="200" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-49" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-20" value="Engineering" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2170" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-48" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dr5dTloGBWN9ja8-UyAy-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2400.000000000001" y="200" as="sourcePoint" />
-            <mxPoint x="2160" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2390" y="200" />
-              <mxPoint x="2230" y="200" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-47" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-22" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-10" target="dr5dTloGBWN9ja8-UyAy-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2110" y="330" as="sourcePoint" />
-            <mxPoint x="2160" y="280" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-52" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="695" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-23" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-9" target="dr5dTloGBWN9ja8-UyAy-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1980" y="360" as="sourcePoint" />
-            <mxPoint x="2030" y="310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-6" target="dr5dTloGBWN9ja8-UyAy-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1800" y="390" as="sourcePoint" />
-            <mxPoint x="1850" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-25" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-7" target="dr5dTloGBWN9ja8-UyAy-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1760" y="390" as="sourcePoint" />
-            <mxPoint x="1810" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-27" value="Transformative Alliance" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="430" width="1050" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-28" value="Project Manager 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="930" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-29" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="630" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-30" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="470" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-31" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="310" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-32" value="Hotel Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="160" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-34" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="770" y="70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-35" value="Taskforce 1" style="swimlane;horizontal=0;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="-40" y="50" width="1090" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-36" value="Project Manager 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="930" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-37" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="630" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-38" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="470" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-39" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-40" value="Hotel Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-42" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="770" y="180" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-43" value="Taskcore 2" style="swimlane;horizontal=0;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="-40" y="160" width="1090" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-44" value="Project Manager 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="930" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-45" value="Purchasing Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="630" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-46" value="Marketing Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="470" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-47" value="Accounting Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="310" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-48" value="Hotel Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="160" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-50" value="Engineering Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="770" y="295" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-51" value="Taskforce 3" style="swimlane;horizontal=0;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-27">
-          <mxGeometry x="-40" y="275" width="1090" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-52" value="Transformative Council" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="70" width="420" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-53" value="Chief Information Officer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-52">
-          <mxGeometry x="160" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-54" value="Project Manager 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-52">
-          <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dr5dTloGBWN9ja8-UyAy-52" target="dr5dTloGBWN9ja8-UyAy-54">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="130" as="sourcePoint" />
-            <mxPoint x="-70" y="110" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-56" value="Project Manager 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-52">
-          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-57" value="Project Manager 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-52">
-          <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="dr5dTloGBWN9ja8-UyAy-52" source="dr5dTloGBWN9ja8-UyAy-53" target="dr5dTloGBWN9ja8-UyAy-56">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-430" y="330" as="sourcePoint" />
-            <mxPoint x="-380" y="280" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dr5dTloGBWN9ja8-UyAy-52" target="dr5dTloGBWN9ja8-UyAy-57">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="130" as="sourcePoint" />
-            <mxPoint x="215" y="159.9999999999999" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="350" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-60" value="Transformative Alliance" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="320" width="420" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-61" value="Taskforce 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-60">
-          <mxGeometry x="20" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-62" value="Taskforce 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-60">
-          <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-63" value="Taskforce 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dr5dTloGBWN9ja8-UyAy-60">
-          <mxGeometry x="290" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-54" target="dr5dTloGBWN9ja8-UyAy-61">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1890" y="400" as="sourcePoint" />
-            <mxPoint x="1940" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-65" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-27" target="dr5dTloGBWN9ja8-UyAy-60">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1890" y="400" as="sourcePoint" />
-            <mxPoint x="2300" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1785" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-66" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dr5dTloGBWN9ja8-UyAy-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2090" y="110" as="sourcePoint" />
-            <mxPoint x="2400" y="210" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2540" y="110" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-67" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-57" target="dr5dTloGBWN9ja8-UyAy-63">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2660" y="280" as="sourcePoint" />
-            <mxPoint x="2210" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dr5dTloGBWN9ja8-UyAy-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dr5dTloGBWN9ja8-UyAy-56" target="dr5dTloGBWN9ja8-UyAy-62">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2525" y="280" as="sourcePoint" />
-            <mxPoint x="2075" y="350" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="i1Yryo5pNc8ydbOWbHFT-46" value="Project Manager 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="695" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
