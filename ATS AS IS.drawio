@@ -1,23 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:36:24.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XBxHN6W5jpxuQ0gaw5YI" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:44:43.294Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="kn4pz35tKFqmSGGgHK8z" version="21.1.4" type="github">
   <diagram name="Page-1" id="x3qRDm9B7H_OVfXoaRfD">
-    <mxGraphModel dx="1026" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="977" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#13538A;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="40" y="100" width="80" height="80" as="geometry" />
+        <mxCell id="MzEPvq9lY3MwqnpipSgU-8" value="&lt;font color=&quot;#ffffff&quot;&gt;Candidate&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#13538A;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-3" value="&lt;font color=&quot;#ffffff&quot;&gt;HR&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2c92D5;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="80" height="80" as="geometry" />
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-1" value="&lt;font color=&quot;#ffffff&quot;&gt;HR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#2C92D5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Hiring Manager&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#37C9EF;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="80" height="80" as="geometry" />
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Hiring Manager&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#37C9EF;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-5" value="&lt;font color=&quot;#ffffff&quot;&gt;Division Head&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33dad8;" parent="1" vertex="1">
-          <mxGeometry x="40" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Division Head&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#3EDAD8;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-8" value="Candidate" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="170" y="120" width="180" height="120" as="geometry" />
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVGY_BLCJTJtmA_UGDGf-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-4" value="Job opening in department" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="nVGY_BLCJTJtmA_UGDGf-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVGY_BLCJTJtmA_UGDGf-9" target="nVGY_BLCJTJtmA_UGDGf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-9" value="Receive job information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVGY_BLCJTJtmA_UGDGf-11" target="nVGY_BLCJTJtmA_UGDGf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-11" value="Post jobs online" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-13" value="Email job information to HR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nVGY_BLCJTJtmA_UGDGf-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-14" value="Come across job post" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-18" value="Fill in job application" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-19" value="Weekly check of job applications" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-20" value="Schedule interview with candidate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-21" value="Receive interview information" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-22" value="Job Interview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-23" value="Interview successful?" style="rhombus;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="375" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-24" value="Second round needed?" style="rhombus;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="375" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-25" value="Schedule interview with division head" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-26" value="Division Head iInterview" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-27" value="Select successful candidates after all interviews finish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-28" value="Application successful?" style="rhombus;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1990" y="375" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-29" value="Send rejection email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-30" value="Send letter of offer to candidate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-31" value="Candidate rejected" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1975" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nVGY_BLCJTJtmA_UGDGf-32" value="Receive job offer" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="140" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
