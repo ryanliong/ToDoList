@@ -1,20 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T12:29:01.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AwJ1ACsRXnXTsiIIj0A1" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-06T12:35:34.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="thuU6gzTipidlh8oE932" version="21.1.4" type="github">
   <diagram name="Page-1" id="x3qRDm9B7H_OVfXoaRfD">
-    <mxGraphModel dx="1266" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-2" value="Candidate" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="80" height="80" as="geometry" />
+        <mxCell id="MzEPvq9lY3MwqnpipSgU-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#13538A;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-3" value="HR" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="MzEPvq9lY3MwqnpipSgU-3" value="&lt;font color=&quot;#ffffff&quot;&gt;HR&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2c92D5;" vertex="1" parent="1">
           <mxGeometry x="40" y="230" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-4" value="Hiring Manager" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="MzEPvq9lY3MwqnpipSgU-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Hiring Manager&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#37C9EF;" vertex="1" parent="1">
           <mxGeometry x="40" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MzEPvq9lY3MwqnpipSgU-5" value="Division Head" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="MzEPvq9lY3MwqnpipSgU-5" value="&lt;font color=&quot;#ffffff&quot;&gt;Division Head&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#33dad8;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MzEPvq9lY3MwqnpipSgU-8" value="Candidate" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="90" width="120" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
